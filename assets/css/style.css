@@ -353,6 +353,7 @@ header .btn-group {
   background: var(--background-primary);
   padding-top:    2rem;
   padding-bottom: var(--py);
+  padding-top: var(--py);
   text-align: center;
 }
 
